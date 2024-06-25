@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background: linear-gradient(135deg, #6e8efb, #a777e3);
+}
+
+#projects {
+  background-color: #ffe0e0;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+textarea {
+  padding-right: 200%;
+}
